@@ -7,3 +7,5 @@ Features: Demonstrates Git basics Uses .gitignore effectively Handles merge conf
 bash Copy Edit git clone https://github.com/your-username/repository-name.git Navigate into the project folder:
 
 bash Copy Edit cd repository-name Contribution: Fork, create a new branch, make changes, and submit a pull request!
+contributers:
+sandeep
